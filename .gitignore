@@ -1,0 +1,6 @@
+# Node modules
+node_modules/
+
+# Cypress output
+cypress/screenshots/
+cypress/downloads/
